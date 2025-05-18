@@ -8,4 +8,3 @@ if budget < 500000 and budget > 300000:
 elif budget > 500000:
     down_payment = (20 / 100) * price
     print(down_payment)
-
